@@ -1,3 +1,3 @@
-module github.com/glvnst/shelltools/avg
+module github.com/backplane/avg
 
 go 1.16
